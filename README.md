@@ -1,7 +1,7 @@
 # RGB相机工程实践完整指南
 
 <p align="center">
-  <img src="docs/images/camera_pipeline.png" alt="相机处理流水线" width="800"/>
+  <img src="docs/images/robocamera.png" alt="机器之眼" width="800"/>
 </p>
 
 ## 📋 目录
