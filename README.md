@@ -1395,7 +1395,7 @@ python scripts/benchmark.py --all
 **官方文档:**
 - [OpenCV Documentation](https://docs.opencv.org/)
 - [TensorRT Developer Guide](https://docs.nvidia.com/deeplearning/tensorrt/)
-- [MediaPipe](https://google.github.io/mediapipe/)
+- [MediaPipe](https://github.com/google-ai-edge/mediapipe)
 - [ROS2 Documentation](https://docs.ros.org/en/humble/)
 
 **推荐阅读:**
